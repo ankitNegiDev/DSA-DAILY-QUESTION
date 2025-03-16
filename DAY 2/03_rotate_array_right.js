@@ -2,7 +2,8 @@
 
 
 //! Brute force
-let arr = [1, 2, 3, 4, 5, 6, 7];
+// let arr = [1, 2, 3, 4, 5, 6, 7];
+let arr = [10, 20, 30, 40, 50];
 let rotationTime = 3;
 function rotateRight(arr, rotationTime) {
     for (let i = 0; i < arr.length; i++) {
@@ -117,5 +118,35 @@ function rotateRightExtraSpaceOptimal(nums, k) {
         nums[i] = rotatedArray[i];
     }
 }
-console.log(rotateRightExtraSpaceOptimal(arr, 3));
-console.log(arr);
+// console.log(rotateRightExtraSpaceOptimal(arr, 3));
+// console.log(arr);
+
+
+function rotateArrayInRightReversal(arr, k) {
+    k = k % arr.length;
+    // step 1 => reversing the entire array
+    for (let i = 0; i < Math.floor(arr.length / 2); i++){
+        let temp = arr[i];
+        arr[i] = arr[arr.length - 1 - i];
+        arr[arr.length - 1 - i] = temp;
+    }
+    console.log("entire reverse array:", arr);
+
+    // step 2 => reversing the first k elemnets 
+    for (let i = 0; i < Math.floor(k / 2); i++){
+        let temp = arr[i];
+        arr[i] = arr[k-1-i];
+        arr[k-1-i] = temp;
+    }
+    console.log(arr);
+
+    // step 3 => reversing last n-k elements
+    for (let i = 0; i < Math.floor((arr.length - k) / 2); i++){
+        let temp = arr[k + i];
+        arr[k + i] = arr[arr.length - 1 - i];
+        arr[arr.length - 1 - i] = temp;
+    }
+    console.log("finial array: ", arr);
+
+}
+rotateArrayInRightReversal(arr, 6);
