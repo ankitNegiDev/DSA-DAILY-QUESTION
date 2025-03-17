@@ -30,3 +30,11 @@
 * [Solution](https://leetcode.com/problems/move-zeroes/submissions/1575789797/)
 ---
 
+## Day 4 
+
+* **Q 7** [Linear Search](https://www.geeksforgeeks.org/problems/who-will-win-1587115621/1)
+* [Solution](./DAY%204/01_linear_search.js)
+
+* **Q 8** [Union of 2 Sorted with Duplicates](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1)
+* [Solution](./DAY%204/02_Union_of_two_Sorted_with_Duplicates.js)
+---
