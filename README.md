@@ -38,3 +38,12 @@
 * **Q 8** [Union of 2 Sorted with Duplicates](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1)
 * [Solution](./DAY%204/02_Union_of_two_Sorted_with_Duplicates.js)
 ---
+
+
+## Day 5
+* **Q 8** [Sort color](https://leetcode.com/problems/sort-colors/description/)
+* [Solution](https://leetcode.com/problems/sort-colors/submissions/1578059462/)
+
+* **Q 9** [find comman element count](https://leetcode.com/problems/find-common-elements-between-two-arrays/description/)
+* [Solution](https://leetcode.com/problems/find-common-elements-between-two-arrays/submissions/1578001811/)
+---
