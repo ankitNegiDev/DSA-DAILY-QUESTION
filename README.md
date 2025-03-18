@@ -41,9 +41,9 @@
 
 
 ## Day 5
-* **Q 8** [Sort color](https://leetcode.com/problems/sort-colors/description/)
+* **Q 9** [Sort color](https://leetcode.com/problems/sort-colors/description/)
 * [Solution](https://leetcode.com/problems/sort-colors/submissions/1578059462/)
 
-* **Q 9** [find comman element count](https://leetcode.com/problems/find-common-elements-between-two-arrays/description/)
+* **Q 10** [find comman element count](https://leetcode.com/problems/find-common-elements-between-two-arrays/description/)
 * [Solution](https://leetcode.com/problems/find-common-elements-between-two-arrays/submissions/1578001811/)
 ---
