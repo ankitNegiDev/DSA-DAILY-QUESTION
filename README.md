@@ -47,3 +47,11 @@
 * **Q 10** [find comman element count](https://leetcode.com/problems/find-common-elements-between-two-arrays/description/)
 * [Solution](https://leetcode.com/problems/find-common-elements-between-two-arrays/submissions/1578001811/)
 ---
+
+## Day 6
+* **Q 11** [Maximum sum subarray of k size](https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1)
+* [Solution](./DAY%206/01_maximum_sum_subarray.js)
+
+* **Q 12** [First negative of subarray](https://www.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1)
+* [Solution](./DAY%206/02_first_negative_of_subarray.js)
+---
