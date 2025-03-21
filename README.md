@@ -69,3 +69,13 @@
 * [Solution](https://leetcode.com/problems/max-consecutive-ones/submissions/1580197290/)
 
 ---
+
+## Day 8
+
+* **Q 14** [Single number appear one time](https://leetcode.com/problems/single-number/description/)
+* [Solution](./DAY%208/01_appear_one_time.js)
+
+* **Q 15** [Two Product](./DAY%208/02_two_product.js)
+* [Solution](./DAY%208/02_two_product.js)
+
+---

@@ -129,6 +129,22 @@ function missingElement(nums) {
 }
 console.log(missingElement(nums));
 
+//! (5) using xor
+/**
+ * we know that there are n elements and currently we are having n-1 elements .. and elements are from 0 to n so if we do like xor of arr[i] with its index then from 1 to n-1 elements have xor 0 and at last whatever the value of xor is that is our missing number.
+ */
+let arr = [3, 5, 1,0,2];
+function missingNumberXor(arr) {
+    let missing = 0;
+    for (let i = 0; i < arr.length; i++){
+        missing = missing ^ i;
+        missing = missing ^ arr[i];
+    }
+    // why we are doing xor with arr.length so ans is currently the array that is given to us is having 1 element missing which means whatever that element is it will be from 0 to arr.length that's why we are doing xor with n.
+    missing = missing ^ arr.length;
+    return missing;
+}
+console.log("missing number ---->" ,missingNumberXor(arr));
 
 //! check this approach ??
 /*
@@ -153,3 +169,35 @@ function missing(nums) {
     }
 }
 */
+
+//! done using hashing or map where we store the count ..
+/**
+ * the approach is simple 
+    ** step 1 =>  first create a map of n size and store 0 count for each key from 0 to n.
+    ** step 2 => then run a loop on arr and check if map has arr[i] element then set it's count to 1 
+    *? step 3 => then again run a loop of n length to check for which value from 0 to n map contains 0 if yes then that is our missing number.
+ */
+
+let arr1 = [3, 4,  0, 2];
+function missingNumberHashing(arr) {
+    let map = new Map();
+    let length = arr.length;
+    for (let i = 0; i <= length; i++){
+        map.set(i, 0);
+    }
+    console.log(map);
+    // now setting the count 1 for those elemnt which are in arr.
+    for (let i = 0; i < length; i++){
+        if (map.has(arr[i])) {
+            map.set(arr[i], 1);
+        }
+    }
+    console.log(map);
+    // again running a loop whose count is not 1 that is our missing number.
+    for (let i = 0; i <= length; i++){
+        if (map.get(i) !== 1) {
+            return i;
+        }
+    }
+}
+console.log("missing number using hashing:", missingNumberHashing(arr1));
