@@ -80,3 +80,12 @@
 
 ---
 
+## Day 9
+
+* **Q 17** [Merge two sorted Array inplace](https://leetcode.com/problems/merge-sorted-array/description/)
+* [Solution](https://leetcode.com/problems/merge-sorted-array/submissions/1582118089/)
+
+* **Q 18** [Pascal Triangle](https://leetcode.com/problems/pascals-triangle/)
+* [Solution](https://leetcode.com/problems/pascals-triangle/submissions/1582218162/)
+
+---

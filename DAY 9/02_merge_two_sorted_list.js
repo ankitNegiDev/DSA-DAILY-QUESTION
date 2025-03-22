@@ -1,0 +1,1 @@
+// Q 2 => do it when linked list id done....... similar to array. but required the pointer for the nodes to point 
