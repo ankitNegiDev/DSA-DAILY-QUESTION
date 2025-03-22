@@ -62,20 +62,21 @@
 
 ## Day 7
 
-* **Q 12** [Missing Number](https://leetcode.com/problems/missing-number/description/)
+* **Q 13** [Missing Number](https://leetcode.com/problems/missing-number/description/)
 * [Solution](https://leetcode.com/problems/missing-number/submissions/1580248320/)
 
-* **Q 13** [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/)
+* **Q 14** [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/)
 * [Solution](https://leetcode.com/problems/max-consecutive-ones/submissions/1580197290/)
 
 ---
 
 ## Day 8
 
-* **Q 14** [Single number appear one time](https://leetcode.com/problems/single-number/description/)
+* **Q 15** [Single number appear one time](https://leetcode.com/problems/single-number/description/)
 * [Solution](./DAY%208/01_appear_one_time.js)
 
-* **Q 15** [Two Product](./DAY%208/02_two_product.js)
+* **Q 16** [Two Product](./DAY%208/02_two_product.js)
 * [Solution](./DAY%208/02_two_product.js)
 
 ---
+
