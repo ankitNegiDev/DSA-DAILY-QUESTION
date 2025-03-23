@@ -89,3 +89,24 @@
 * [Solution](https://leetcode.com/problems/pascals-triangle/submissions/1582218162/)
 
 ---
+
+## Day 10
+
+* **Q 19** [Recursion print n natural number](./DAY%2010/01_print_n_natural_number.js)
+* [Solution](./DAY%2010/01_print_n_natural_number.js)
+* **Q 19a** [Recursion Sum of n natural number](./DAY%2010/02_sum_of_n_natural_number.js)
+* [Solution](./DAY%2010/02_sum_of_n_natural_number.js)
+
+* **Q 19b** [Recursion factorial of n number](./DAY%2010/03_factorial_of_n_number.js)
+* [Solution](./DAY%2010/03_factorial_of_n_number.js)
+
+* **Q 20** [Recursion power calculation](./DAY%2010/04_power_calculation.js)
+* [Solution](./DAY%2010/04_power_calculation.js)
+
+* **Q 20a** [Recursion fibonacchi](./DAY%2010/05_fibonacchi.js)
+* [Solution](./DAY%2010/05_fibonacchi.js)
+
+* **Q 20b** [Recursion Tribonachy](./DAY%2010/06_tribonachy.js)
+* [Solution](./DAY%2010/06_tribonachy.js)
+
+---
