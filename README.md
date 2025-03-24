@@ -110,3 +110,15 @@
 * [Solution](./DAY%2010/06_tribonachy.js)
 
 ---
+
+### Array Medium Question Started
+
+## Day 11
+
+* **Q 21** [two sum](https://leetcode.com/problems/two-sum/description/)
+* [Solution](https://leetcode.com/problems/two-sum/submissions/1584245609/)
+
+* **Q 22** [Majority element](https://leetcode.com/problems/majority-element/description/)
+* [Solution](https://leetcode.com/problems/majority-element/submissions/1584348248/)
+
+---
