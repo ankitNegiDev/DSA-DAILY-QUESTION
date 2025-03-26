@@ -122,3 +122,23 @@
 * [Solution](https://leetcode.com/problems/majority-element/submissions/1584348248/)
 
 ---
+
+## Day 12
+
+* **Q 23** [maximum sub array](https://leetcode.com/problems/maximum-subarray/description/)
+* [Solution](https://leetcode.com/problems/maximum-subarray/submissions/1585608278/)
+
+* **Q 24** [basic linked list](./DAY_12/02_linkedList.js)
+* [Solution](./DAY_12/02_linkedList.js)
+
+---
+
+## Day 13
+
+* **Q 25** [middle of linked list](https://leetcode.com/problems/middle-of-the-linked-list/description/)
+* [Solution](https://leetcode.com/problems/middle-of-the-linked-list/submissions/1587017213/)
+
+* **Q 26** [intersection point of two linked list](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+* [Solution](https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/1587060501/)
+
+---
