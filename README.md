@@ -142,3 +142,14 @@
 * [Solution](https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/1587060501/)
 
 ---
+
+## Day 14
+
+* **Q 27** [best time to buy and sell](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
+* [Solution](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/1587953120/)
+
+* **Q 28** [rearrange element by sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/)
+* [Solution](https://leetcode.com/problems/rearrange-array-elements-by-sign/submissions/1587973112/)
+* *while revision check for the two pointer inplace.*
+
+---
