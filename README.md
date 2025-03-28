@@ -153,3 +153,13 @@
 * *while revision check for the two pointer inplace.*
 
 ---
+
+## Day 15
+
+* **Q 29** [generate_permutation](https://leetcode.com/problems/permutations/description/)
+* [Solution](https://leetcode.com/problems/permutations/submissions/1589156772/)
+
+* **Q 30** [next Permutation](https://leetcode.com/problems/next-permutation/description/)
+* [Solution](./DAY_15/02_next_permutation.js)
+
+---

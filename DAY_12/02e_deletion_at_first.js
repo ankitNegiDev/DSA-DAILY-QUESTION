@@ -23,6 +23,7 @@ printLinkedList(head);
 
 function deletionAtFirst(head) {
     return head.next;
+    // why head=head.next; wi llnot work here 
 }
 console.log("\n\n");
 
