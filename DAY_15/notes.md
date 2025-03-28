@@ -2,7 +2,7 @@
 
 * for this we have two approach.
 
-* ## using Map or extra space.
+* ## using Map or extra space
 
     ```js
     function generatePermutations1(arr, map, result, index) {
