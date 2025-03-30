@@ -163,3 +163,15 @@
 * [Solution](./DAY_15/02_next_permutation.js)
 
 ---
+
+## Day 16
+
+* **Q 31** [leader in array](https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card)
+* [Solution](https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card)
+
+* **Q 32** [longest consecutive secquence](https://leetcode.com/problems/longest-consecutive-sequence/description/)
+* [Solution](/DAY_16/02_longest_consecutive_secquence.js)
+
+---
+
+
