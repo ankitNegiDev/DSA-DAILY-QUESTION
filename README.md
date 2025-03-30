@@ -174,4 +174,12 @@
 
 ---
 
+## Day 17
 
+* **Q 33** [valid parenthesis](https://leetcode.com/problems/valid-parentheses/description/)
+* [Solution](https://leetcode.com/problems/valid-parentheses/submissions/1590077881/)
+
+* **Q 34** [set matrix zeros](https://leetcode.com/problems/set-matrix-zeroes/description/)
+* [Solution](/DAY_17/02_set_matrix_zeros.js)
+
+---
