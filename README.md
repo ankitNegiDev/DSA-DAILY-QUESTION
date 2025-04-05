@@ -236,3 +236,13 @@
 * [Solution](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/1596463733/)
 
 ---
+
+## Day 23
+
+* **Q 45** [max depth in a Binary tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)
+* [Solution](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/1597527373/)
+
+* **Q 46** [search in a binary search tree](https://leetcode.com/problems/search-in-a-binary-search-tree/description/)
+* [Solution](https://leetcode.com/problems/search-in-a-binary-search-tree/submissions/1597512572/)
+
+---
