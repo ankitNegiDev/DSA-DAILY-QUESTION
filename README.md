@@ -199,7 +199,7 @@
 * **Q 37** [valid pallendrome](https://leetcode.com/problems/valid-palindrome/description/)
 * [Solution](/DAY_19/01_valid_pallendrome.js)
 
-* **Q 38** [defanging ip ](https://leetcode.com/problems/defanging-an-ip-address/description/)
+* **Q 38** [defanging ip](https://leetcode.com/problems/defanging-an-ip-address/description/)
 * [Solution](/DAY_19/02_defanging_ip.js)
 
 ---
@@ -227,7 +227,7 @@
 
 ---
 
-# Day 22
+## Day 22
 
 * **Q 43** [search inserted position](https://leetcode.com/problems/search-insert-position/description/)
 * [Solution](https://leetcode.com/problems/search-insert-position/submissions/1596440062/)
