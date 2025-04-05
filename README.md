@@ -216,3 +216,13 @@
 * [Solution](/DAY_20/03_postorder.js)
 
 ---
+
+## Day 21
+
+* **Q 41** [floor value](/DAY_21/01_floorValue.js)
+* [Solution](/DAY_21/01_floorValue.js)
+
+* **Q 42** [floor and ceil values](/DAY_21/02_math_floor_ceil.js)
+* [Solution](/DAY_21/02_math_floor_ceil.js)
+
+---
