@@ -226,3 +226,13 @@
 * [Solution](/DAY_21/02_math_floor_ceil.js)
 
 ---
+
+# Day 22
+
+* **Q 43** [search inserted position](https://leetcode.com/problems/search-insert-position/description/)
+* [Solution](https://leetcode.com/problems/search-insert-position/submissions/1596440062/)
+
+* **Q 44** [find first and last position](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)
+* [Solution](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/1596463733/)
+
+---
