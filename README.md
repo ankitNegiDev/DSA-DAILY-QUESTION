@@ -203,3 +203,16 @@
 * [Solution](/DAY_19/02_defanging_ip.js)
 
 ---
+
+## Day 20
+
+* **Q 39** [Tree traversal pre-order](/DAY_20/01a_pre-order.js)
+* [Solution](/DAY_20/01a_pre-order.js)
+
+* **Q 39a** [In-order traversal](/DAY_20/02_inorder.js)
+* [Solution](/DAY_20/02_inorder.js)
+
+* **Q 40** [Post order traversal](/DAY_20/03_postorder.js)
+* [Solution](/DAY_20/03_postorder.js)
+
+---
