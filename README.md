@@ -183,3 +183,13 @@
 * [Solution](/DAY_17/02_set_matrix_zeros.js)
 
 ---
+
+## Day 18
+
+* **Q 35** [sign of the product](https://leetcode.com/problems/sign-of-the-product-of-an-array/description/)
+* [Solution](https://leetcode.com/problems/sign-of-the-product-of-an-array/submissions/1591922280/)
+
+* **Q 36** [pallendrome number check](https://leetcode.com/problems/palindrome-number/description/)
+* [Solution](./DAY_18/02_pallendrome_number.js)
+
+---
