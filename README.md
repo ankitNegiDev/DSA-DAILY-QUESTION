@@ -246,3 +246,13 @@
 * [Solution](https://leetcode.com/problems/search-in-a-binary-search-tree/submissions/1597512572/)
 
 ---
+
+## Day 24
+
+* **Q 47** [fibonacci](/DAY_24/01_fibonacci_series.c)
+* [Solution](/DAY_24/01_fibonacci_series.c)
+
+* **Q 48** [hcf](/DAY_24/04_hcf.c)
+* [Solution](/DAY_24/04_hcf.c)
+
+---
