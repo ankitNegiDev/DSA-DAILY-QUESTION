@@ -256,3 +256,13 @@
 * [Solution](/DAY_24/04_hcf.c)
 
 ---
+
+## Day 25
+
+* **Q 49** [star pattern](./DAY_25/01_question.c)
+* [Solution](/DAY_25/01_question.c)
+
+* **Q 50** [Star pattern](./DAY_25/02_question.c)
+* [Solution](/DAY_25/02_question.c)
+
+---
