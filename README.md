@@ -266,3 +266,13 @@
 * [Solution](/DAY_25/02_question.c)
 
 ---
+
+## Day 26
+
+* **Q 51** [Star pattern advance](./DAY_26/01_question.c)
+* [Solution](./DAY_26/01_question.c)
+
+* **Q 52** [Star pattern advance](./DAY_26/06_question.c)
+* [Solution](./DAY_26/01_question.c)
+
+---
