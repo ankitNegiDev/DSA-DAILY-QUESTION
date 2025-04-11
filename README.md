@@ -276,3 +276,13 @@
 * [Solution](./DAY_26/01_question.c)
 
 ---
+
+## Day 27
+
+* **Q 52** [prime number](./DAY_27/02_print_all_prime_number.c)
+* [Solution](./DAY_27/02_print_all_prime_number.c)
+
+* **Q 53** [armstrong number](./DAY_27/04_check_armstrong.c)
+* [Solution](./DAY_27/04_check_armstrong.c)
+
+---
