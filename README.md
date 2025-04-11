@@ -279,10 +279,11 @@
 
 ## Day 27
 
-* **Q 52** [prime number](./DAY_27/02_print_all_prime_number.c)
+* **Q 53** [prime number](./DAY_27/02_print_all_prime_number.c)
 * [Solution](./DAY_27/02_print_all_prime_number.c)
 
-* **Q 53** [armstrong number](./DAY_27/04_check_armstrong.c)
+* **Q 54** [armstrong number](./DAY_27/04_check_armstrong.c)
 * [Solution](./DAY_27/04_check_armstrong.c)
 
 ---
+
