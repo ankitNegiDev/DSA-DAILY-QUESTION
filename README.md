@@ -287,3 +287,12 @@
 
 ---
 
+## Day 28
+
+* **Q 55** [ways to climb stairs](https://leetcode.com/problems/climbing-stairs/description/)
+* [Solution](https://leetcode.com/problems/climbing-stairs/submissions/1600704698/)
+
+* **Q 56** [merge two sorted list](https://leetcode.com/problems/merge-two-sorted-lists/description/)
+* [Solution](https://leetcode.com/problems/merge-two-sorted-lists/submissions/1603298237/)
+
+---
