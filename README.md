@@ -296,3 +296,13 @@
 * [Solution](https://leetcode.com/problems/merge-two-sorted-lists/submissions/1603298237/)
 
 ---
+
+## Day 29
+
+* **Q 57** [largest rectangle area in histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/)
+* [Solution](https://leetcode.com/problems/largest-rectangle-in-histogram/submissions/1603499280/)
+
+* **Q 58** [delete a given node from linked list](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)
+* [Solution](https://leetcode.com/problems/delete-node-in-a-linked-list/submissions/1603402159/)
+
+---
