@@ -306,3 +306,13 @@
 * [Solution](https://leetcode.com/problems/delete-node-in-a-linked-list/submissions/1603402159/)
 
 ---
+
+## Day 30
+
+* **Q 59** [valid pallendrom number](https://leetcode.com/problems/palindrome-number/description/)
+* [Solution](https://leetcode.com/problems/palindrome-number/submissions/1604628220/)
+
+* **Q 60** [basic question to check even odd multiple ways](./DAY_30/03_question.c)
+* [Solution](./DAY_30/03_question.c)
+
+---
