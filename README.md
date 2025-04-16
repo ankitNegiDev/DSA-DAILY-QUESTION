@@ -332,3 +332,11 @@
 
 * **Q 64** [basic logic building question](./DAY_32/02_permutation.c)
 * [Solution](./DAY_32/02_permutation.c)
+
+## Day 33
+
+* **Q 65** [basic question on recursion](./DAY_33/01_question.c)
+* [Solution](./DAY_33/01_question.c)
+
+* **Q 66** [Basic question on recursion](./DAY_33/02_question.c)
+* [Solution](./DAY_33/02_question.c)
