@@ -324,3 +324,11 @@
 
 * **Q 62** [basic logic building question](./DAY_31/02_question.c)
 * [Solution](./DAY_31/01_question.c)
+
+## Day 32
+
+* **Q 63** [needle in haystack](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/?envType=problem-list-v2&envId=string)
+* [Solution](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/submissions/1606612199/?envType=problem-list-v2&envId=string)
+
+* **Q 64** [basic logic building question](./DAY_32/02_permutation.c)
+* [Solution](./DAY_32/02_permutation.c)
