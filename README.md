@@ -316,3 +316,11 @@
 * [Solution](./DAY_30/03_question.c)
 
 ---
+
+## Day 31
+
+* **Q 61** [basic logic building question](./DAY_31/01_question.c)
+* [Solution](./DAY_31/01_question.c)
+
+* **Q 62** [basic logic building question](./DAY_31/02_question.c)
+* [Solution](./DAY_31/01_question.c)
