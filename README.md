@@ -340,3 +340,11 @@
 
 * **Q 66** [Basic question on recursion](./DAY_33/02_question.c)
 * [Solution](./DAY_33/02_question.c)
+
+## Day 34
+
+* **Q 67** [question on recursion backtrack](./DAY_34/01_question.c)
+* [Solution](./DAY_34/01_question.c)
+
+* **Q 68** [Question on recursion backtrack](./DAY_34/02_question.c)
+* [Solution](./DAY_34/02_question.c)
