@@ -356,3 +356,11 @@
 * [Solution](./DAY_34/02_question.c)
 
 ---
+
+* **Q 69** [Basic question on array](./DAY_35/01_question.c)
+* [Solution](./DAY_35/01_question.c)
+
+* **Q 70** [Basic question on array](./DAY_35/04_question.c)
+* [Solution](./DAY_35/04_question.c)
+
+---
