@@ -1,9 +1,5 @@
 // Q 10 => write a program in c to copy the elemnts of one array into another array take array values from the user..
-// Q 6 => write a program to sort elements of an array of size 10 take array values fro mthe user..
 
-// Q 5 => write a program to find the smallest number stored in an array of size 10 takes array values fro mthe suer..
-
-// Q 4 => write a program to find the greatest number stored in the an array of size 10 take array values from the user..
 #include <stdio.h>
 void inputArrayData(int *arr, int size);
 void displayArrayData(int *arr, int size);
