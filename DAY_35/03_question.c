@@ -1,6 +1,6 @@
 // Q 3 => write a program to calculate the sum of all even number and sum of all odd numbers which are stored in the array of size 10 take array values from the user.
 
-// Q 2 => write a program to calculte the average of numbers stored in an array of size 10 take array values from the user..
+
 
 #include <stdio.h>
 void inputArrayData(int *arr, int size);
