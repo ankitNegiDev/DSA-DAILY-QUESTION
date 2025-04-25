@@ -1,4 +1,4 @@
-// Q 5 => write a program to convert a given string into uppercase..
+// Q2 => write a program to convert a given string into uppercase..
 
 // 'A' = 65, 'Z' = 90, 'a'= 97, 'z' = 122
 // A -> 65 -> a= 97 diff is 32

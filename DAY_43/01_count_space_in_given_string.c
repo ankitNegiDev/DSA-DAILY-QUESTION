@@ -1,4 +1,4 @@
-// Q 4 => write a program to count spaces in a given string..
+// Q 1 => write a program to count spaces in a given string..
 
 // its class c problem that character are written in ' ' single queotes if we write "a" then it is considred as string..
 #include <stdio.h>

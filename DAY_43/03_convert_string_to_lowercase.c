@@ -1,5 +1,4 @@
-// Q 6 => write a program to covert a string into lowercse .
-// Q 5 => write a program to convert a given string into uppercase..
+// Q 3 => write a program to covert a string into lowercse .
 
 // 'A' = 65, 'Z' = 90, 'a'= 97, 'z' = 122
 // A -> 65 -> a= 97 diff is 32
